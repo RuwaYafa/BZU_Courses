@@ -4,7 +4,7 @@
 
 <h1 align="center">Ruwa AbuHweidi</h1>
 
-<p align="center"><strong>University Instructor • PhD Researcher • AI Evaluation • Arabic NLP • Cybercrime • Digital Forensic</strong></p>
+<p align="center"><strong>PhD Researcher • AI Evaluation • Arabic NLP • Cybercrime • Digital Forensic</strong></p>
 
 <p align="center"><em>"The measure of a great teacher is not what they know — but what they awaken in others."</em></p>
 
