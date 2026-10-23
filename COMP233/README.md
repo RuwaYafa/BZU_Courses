@@ -68,7 +68,7 @@ A reusable LaTeX framework for producing coordinated:
 
 The organization, teaching use, assessment resources, and supporting materials in this directory reflect the course delivery represented in this repository.
 
-## 👩‍🏫 Instructor
+## 👩‍🏫 Instructor:
 
 **Ruwa AbuHweidi**  
 Birzeit University  
